@@ -80,4 +80,4 @@ Deploy instantly with [Vercel](https://vercel.com/new) — zero configuration ne
 
 ## License
 
-Built by [JinXSuper Developer](https://jinxsuperdev.vercel.app) · Open source and free to use for your next big project.
+Built by [JinXSuper Developer](https://jinxsuper.vercel.app) · Open source and free to use for your next big project.
