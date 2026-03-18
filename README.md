@@ -27,8 +27,8 @@ A stunning, professional-grade admin dashboard template built with the latest 20
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JinXSuper/jinxsuper-shadcn-dashboard.git
-   cd jinxsuper-shadcn-dashboard
+   git clone https://github.com/jinxsuper/dashboard-template.git
+   cd dashboard-template
    ```
 
 2. **Install dependencies**:
